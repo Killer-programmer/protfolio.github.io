@@ -1,6 +1,9 @@
-/* @font_face */
+
+
+/* @font-face */ 
 
 @font-face{
     font-family: "Roboto";
-    src: url(../Font/Roboto/Roboto-Regular.ttf);
+    src: '../fonts/Roboto/Roboto-Regular.ttf';
 }
+
