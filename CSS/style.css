@@ -166,6 +166,7 @@ footer{
 
     header #branding h1{
         font-size: 26px;
+         background-color: white;
     }
     #showcase img{
         width: 100%;
